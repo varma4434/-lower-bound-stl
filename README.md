@@ -1,2 +1,3 @@
-# -lower-bound-stl
-c++
+# lower-bound-stl
+# Multi leval inheritance
+Solution in c++
